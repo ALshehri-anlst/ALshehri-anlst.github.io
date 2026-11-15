@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" role="img" aria-labelledby="title description">
+  <title id="title">Crew behavior and guest experience</title>
+  <desc id="description">The study highlighted communication, attentiveness, professionalism and responsiveness. It recommended scenario-based training, structured complaint follow-up and continuous monitoring.</desc>
+  <rect width="640" height="340" rx="24" fill="#142d2c"/>
+  <g font-family="system-ui, sans-serif" fill="#f7f6f0">
+    <text x="36" y="45" fill="#ffba78" font-size="16" font-weight="700" letter-spacing="1.4">APPLIED RESEARCH</text>
+    <text x="36" y="94" font-size="41" font-weight="650">Crew behavior</text>
+    <text x="36" y="139" font-size="41" font-weight="650">and guest experience</text>
+    <g fill="#203c39" stroke="#45605b">
+      <rect x="36" y="175" width="276" height="130" rx="14"/>
+      <rect x="328" y="175" width="276" height="130" rx="14"/>
+    </g>
+    <g fill="#ffba78" font-size="18" font-weight="700">
+      <text x="54" y="208">Selected service themes</text>
+      <text x="346" y="208">Recommendations</text>
+    </g>
+    <g font-size="20">
+      <text x="54" y="239">Communication</text>
+      <text x="54" y="263">Attentiveness</text>
+      <text x="54" y="287">Responsiveness</text>
+      <text x="346" y="239">Scenario-based training</text>
+      <text x="346" y="263">Complaint follow-up</text>
+      <text x="346" y="287">Continuous monitoring</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#ffba78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M553 52h36a7 7 0 0 1 7 7v22a7 7 0 0 1-7 7h-17l-15 10V88h-4a7 7 0 0 1-7-7V59a7 7 0 0 1 7-7Z"/>
+    <path d="M558 65h26m-26 10h17"/>
+  </g>
+</svg>
